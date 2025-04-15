@@ -1,5 +1,11 @@
 # Рецепты
 
--  [Брауни](brownie.md)
-- [Тыква с Медом](tykvasmedom.md)
-- [Банановый хлеб](bananabread.md)
+1. Основные блюда:
+	
+  1) [Курица "Пикассо"](picasso.md)
+
+2. Десерты:
+
+	1) [Брауни](brownie.md)
+	2) [Тыква с Медом](tykvasmedom.md)
+	3) [Банановый хлеб](bananabread.md)
