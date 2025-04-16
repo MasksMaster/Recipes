@@ -2,10 +2,10 @@
 
 1. Основные блюда:
 	
-  1) [Курица "Пикассо"](picasso.md)
+  1.1 [Курица "Пикассо"](picasso.md)
 
 2. Десерты:
 
-  1)  [Брауни](brownie.md)
-  2)  [Тыква с Медом](tykvasmedom.md)
-  3)  [Банановый хлеб](bananabread.md)
+  2.1  [Брауни](brownie.md)
+  2.2  [Тыква с Медом](tykvasmedom.md)
+  2.3  [Банановый хлеб](bananabread.md)
